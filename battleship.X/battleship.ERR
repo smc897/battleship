@@ -1,0 +1,36 @@
+Error[149]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 180 : Directive only allowed when generating an object file
+Warning[207] /home/scott/MPLABXProjects/battleship.X/battleship.asm 181 : Found label after column 1. (state)
+Error[180]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 181 : RES directive cannot reserve odd number of bytes in PIC18 absolute mode
+Warning[207] /home/scott/MPLABXProjects/battleship.X/battleship.asm 182 : Found label after column 1. (index)
+Error[180]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 182 : RES directive cannot reserve odd number of bytes in PIC18 absolute mode
+Warning[207] /home/scott/MPLABXProjects/battleship.X/battleship.asm 183 : Found label after column 1. (spitcount)
+Error[180]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 183 : RES directive cannot reserve odd number of bytes in PIC18 absolute mode
+Warning[207] /home/scott/MPLABXProjects/battleship.X/battleship.asm 184 : Found label after column 1. (linemod)
+Error[180]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 184 : RES directive cannot reserve odd number of bytes in PIC18 absolute mode
+Warning[207] /home/scott/MPLABXProjects/battleship.X/battleship.asm 185 : Found label after column 1. (count)
+Error[180]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 185 : RES directive cannot reserve odd number of bytes in PIC18 absolute mode
+Warning[207] /home/scott/MPLABXProjects/battleship.X/battleship.asm 186 : Found label after column 1. (count1)
+Error[180]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 186 : RES directive cannot reserve odd number of bytes in PIC18 absolute mode
+Error[149]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 187 : Directive only allowed when generating an object file
+Warning[207] /home/scott/MPLABXProjects/battleship.X/battleship.asm 188 : Found label after column 1. (tblstart)
+Error[149]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 190 : Directive only allowed when generating an object file
+Warning[207] /home/scott/MPLABXProjects/battleship.X/battleship.asm 191 : Found label after column 1. (array)
+Error[149]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 196 : Directive only allowed when generating an object file
+Warning[203] /home/scott/MPLABXProjects/battleship.X/battleship.asm 197 : Found opcode in column 1. (GOTO)
+Error[149]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 243 : Directive only allowed when generating an object file
+Error[149]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 248 : Directive only allowed when generating an object file
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 250 : Overwriting previous address contents (0000)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 250 : Overwriting previous address contents (0001)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 250 : Overwriting previous address contents (0002)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 250 : Overwriting previous address contents (0003)
+Error[149]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 256 : Directive only allowed when generating an object file
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 261 : Overwriting previous address contents (0000)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 261 : Overwriting previous address contents (0001)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 262 : Overwriting previous address contents (0002)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 262 : Overwriting previous address contents (0003)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 263 : Overwriting previous address contents (0004)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 263 : Overwriting previous address contents (0005)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 265 : Overwriting previous address contents (0008)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 265 : Overwriting previous address contents (0009)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 266 : Overwriting previous address contents (000A)
+Error[118]   /home/scott/MPLABXProjects/battleship.X/battleship.asm 266 : Overwriting previous address contents (000B)
